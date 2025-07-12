@@ -15,7 +15,7 @@
 
 ## 키오스크 데모 실행
 
-https://github.com/user-attachments/assets/93d8b3dc-2bae-4256-8c31-3486411ffc31
+https://github.com/user-attachments/assets/e403eed2-5eb8-4a1b-9884-c5bb9bd6e151
 
 ---
 <br/>
